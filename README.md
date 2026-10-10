@@ -998,8 +998,8 @@ http://localhost:5000
 | **Ajay Chauhan** | **Full Stack Developer** | System architecture, backend integration, core development & product direction |
 | **Abhishek Dwivedi** | **API & Integration Developer** | REST API integration, frontend–backend connectivity & feature integration |
 | **Piyush Kumar** | **Ideation & Solution Strategy** | Problem analysis, solution design, innovation & feature planning |
+| **Aman Kumar Pandey** | **Testing & Documentation** | Functional testing, validation, documentation & presentation support |              
 | **Anchal Dubey** | **UI/UX & Frontend Contributor** | Interface design, user experience & frontend enhancement |
-| **Aman Kumar Pandey** | **Testing & Documentation** | Functional testing, validation, documentation & presentation support |
 | **Rahul Chaudhary** | **Database & Data Management** | PostgreSQL database design, data handling & database integration |
 
 > **One Team. One Vision. Smarter Movement. Safer Hostels.**
